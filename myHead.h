@@ -38,7 +38,7 @@ extern bool iOver;
 extern int iEndGame;
 extern int iScore;
 extern int iTimeS;
-extern int iStart;                      //0表示退出游戏，1表示开始游戏
+extern int iStart;                  //0表示退出游戏，1表示开始游戏
 extern char cButton;
 extern int count;
 
